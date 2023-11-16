@@ -1,4 +1,4 @@
-#How to create a file using terminal and connecting it to a terminal 
+# How to create a file using terminal and connecting it to a terminal 
 ## git-init-sample
 
 
