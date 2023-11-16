@@ -1,5 +1,5 @@
-# How to create a file using terminal and connecting it to a terminal 
-## git-init-sample
+# Using terminal and Git 
+## The provided instructions guide you through the process of creating a new Git repository, adding files, and connecting it to a remote repository on GitHub. Let's break down the steps:
 
 
 ### Create a directory for your project:
