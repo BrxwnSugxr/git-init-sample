@@ -14,6 +14,8 @@ pwd
 
 git config --global init.defaultBranch main
 
+### creating files and accessing 
+
 touch index.html
 
 git status
