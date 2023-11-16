@@ -2,7 +2,7 @@
 ## git-init-sample
 
 
-find the directory you want to create the folder
+### find the directory you want to create the folder
 
 mkdir git-init-file
 
@@ -32,7 +32,7 @@ git status
 
 git push 
 
-create repository on github
+## create repository on github
 
 git remote add origin (name of the source)
 
