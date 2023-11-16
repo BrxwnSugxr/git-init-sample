@@ -4,15 +4,15 @@
 
 ### Create a directory for your project:
 
-mkdir git-init-file
-cd git-init-file
+<p>mkdir git-init-file</p>
+<p>cd git-init-file</p>
 
-mkdir: This command creates a new directory (folder) named "git-init-file."
-cd: This command changes your current working directory to the newly created "git-init-file."
+<p>mkdir: This command creates a new directory (folder) named "git-init-file."</p>
+<p>cd: This command changes your current working directory to the newly created "git-init-file."</p>
 
 ### Initialize Git in the directory:
 
-git config --global init.defaultBranch main
+<p>git config --global init.defaultBranch main</p>
 
 git config --global init.defaultBranch main: This sets the default branch name to "main" when initializing a new Git repository.
 
